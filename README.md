@@ -1,16 +1,5 @@
-# bin
+# Connecting Inn
 
-A new Flutter project.
+A flutter app for organizing your contact list and connection channel.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Working professionals generally exchange cards as a means for exchanging connections, but this process has a lot of flaws and cannot really be optimised. People even tend to loose all the cards and phone numbers. Connecting Inn is made precisely for tackling this kinds of problems. It helps you make a chain of contacts and perform querry search by different tags you place on the contact. Though there are several social media for this none focuses on the private connections of a person thus making the actual connections weak. Connecting Inn not only lets you make a private chain but also helps you check out others if the said person authorizes the check. 
